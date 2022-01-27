@@ -1,11 +1,11 @@
 # React Bootstrap admin starter template
 
-Steps: 
+## Steps: 
 
-### clone out respository
+##### clone out respository
 
-### npm install
+##### npm install
 
-### npm start
+##### npm start
 
 And you can start making an awesome admin application now.
