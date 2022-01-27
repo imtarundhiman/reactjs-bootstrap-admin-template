@@ -29,9 +29,6 @@ Profile page screenshot
 Change Password page screenshot
 ![Change Password page screenshot](/screenshots/change-password.png)
 
-Preferences page screenshot
-![Preferences page screenshot](/screenshots/preferences.png)
-
 Blank Admin page screenshot
 ![Blank Admin page screenshot](/screenshots/blank-page.png)
 
