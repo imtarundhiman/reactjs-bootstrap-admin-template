@@ -7,6 +7,7 @@
 ![Dashboard page screenshot](/public/screenshots/dashboard.png)
 ![Left modal page screenshot](/public/screenshots/left-modal.png)
 ![Right modal page screenshot](/public/screenshots/right-modal.png)
+![Table page screenshot](/public/screenshots/table.png)
 ![Profile page screenshot](/public/screenshots/profile.png)
 ![Change Password page screenshot](/public/screenshots/change-password.png)
 ![Preferences page screenshot](/public/screenshots/preferences.png)
