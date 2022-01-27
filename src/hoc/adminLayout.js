@@ -2,8 +2,6 @@ import React from "react";
 import Header from './../common/header';
 import Sidebar from './../common/sidebar';
 import { Preloader, Bars } from 'react-preloader-icon';
-import ModalComponent from "../components/ModalComponent";
-import AddLeadForm from "../pages/leads/AddLeadForm";
 
 const adminLayout = (ChildComponent) => {
     class AdminLayout extends React.Component {
@@ -63,7 +61,6 @@ const adminLayout = (ChildComponent) => {
         render(){
             return <>
                 {this.renderHtml()}
-                <ModalComponent title="New Lead" footerContent={this.addLeadModalFooterContent()} content={<AddLeadForm handleSaveLoadingStatus={this.handleParentData} clickEvent={this.state.saveLeadClickEvent}/>} className="right" dataBsBackdrop="static" id="add-lead-modal"/>
             </>
         }
     }
