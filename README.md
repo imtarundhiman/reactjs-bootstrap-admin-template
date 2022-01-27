@@ -19,6 +19,10 @@
 -   Javascript
 -   ReactJs
 
+## Stuck somewhere ?
+
+I am using bootstrap and react js here. So if you got stuck anywhere, please look **ReactJs** and **Bootstrap** Docs.
+
 ## Steps for how you can start our template: 
 
 ##### clone our respository
