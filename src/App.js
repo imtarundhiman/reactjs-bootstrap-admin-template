@@ -7,6 +7,7 @@ import ResetPassword from './pages/auth/ResetPassword';
 import ProfilePage from './pages/profile/ProfilePage';
 import ChangePasswordPage from './pages/profile/ChangePasswordPage';
 import UserPreferencesPage from './pages/profile/UserPreferencesPage'
+import AdminBlankPage from './pages/AdminBlankPage';
 import {BrowserRouter as Router, Route, Routes} from 'react-router-dom';
 
 function App() {
@@ -20,6 +21,7 @@ function App() {
                 <Route exact path='/change-password' element={<ChangePasswordPage/>} />
                 <Route exact path='/preferences' element={<UserPreferencesPage/>} />
                 <Route exact path='/typography' element={<TypographyPage/>} />
+                <Route exact path='/blank-page' element={<AdminBlankPage/>} />
             </Routes>  
         </Router>
     )

@@ -24,6 +24,11 @@ class Sidebar extends React.Component {
                             <i className="fa fa-dashboard"></i> Dashboard
                         </Link>
                     </li>
+                    <li className="mb-1">
+                        <Link tag="a" className="" to="/blank-page">
+                            <i className="fa fa-file-o"></i> Blank Page
+                        </Link>
+                    </li>
                     <li className="border-top my-3"></li>
                     <li className="mb-1">
                         <Link tag="a" className="" to="/typography">
@@ -45,8 +50,8 @@ class Sidebar extends React.Component {
                         </ul>
                         </div>
                     </li> 
-                    <li className="border-top my-3"></li>
-                    */}
+                    <li className="border-top my-3"></li> */}
+                   
                 </ul>
             </PerfectScrollbar>
             <div className="dropdown fixed-bottom-dropdown">
