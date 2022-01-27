@@ -2,16 +2,18 @@
 
 ## screenshots
 
-![Login page screenshot](/public/screenshots/login.png)
-![Forgot password page screenshot](/public/screenshots/forgot-password.png)
-![Dashboard page screenshot](/public/screenshots/dashboard.png)
-![Left modal page screenshot](/public/screenshots/left-modal.png)
-![Right modal page screenshot](/public/screenshots/right-modal.png)
-![Table page screenshot](/public/screenshots/table.png)
-![Profile page screenshot](/public/screenshots/profile.png)
-![Change Password page screenshot](/public/screenshots/change-password.png)
-![Preferences page screenshot](/public/screenshots/preferences.png)
-![Blank Admin page screenshot](/public/screenshots/blank-page.png)
+Loading Effect
+![Login page screenshot](/screenshots/loading.png)
+![Login page screenshot](/screenshots/login.png)
+![Forgot password page screenshot](/screenshots/forgot-password.png)
+![Dashboard page screenshot](/screenshots/dashboard.png)
+![Left modal page screenshot](/screenshots/left-modal.png)
+![Right modal page screenshot](/screenshots/right-modal.png)
+![Table page screenshot](/screenshots/table.png)
+![Profile page screenshot](/screenshots/profile.png)
+![Change Password page screenshot](/screenshots/change-password.png)
+![Preferences page screenshot](/screenshots/preferences.png)
+![Blank Admin page screenshot](/screenshots/blank-page.png)
 
 ## Prerequisite
 
