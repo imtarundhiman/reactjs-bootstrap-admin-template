@@ -2,8 +2,13 @@
 
 ## screenshots
 
-![Login page screenshot](https://ldotr-development-bucket.s3.ap-south-1.amazonaws.com/data-upload/def3d830-7f70-11ec-a321-4b57550d7721/Screenshot%20from%202022-01-27%2018-21-28.png)
 ![Login page screenshot](/public/screenshots/login.png)
+![Forgot password page screenshot](/public/screenshots/forgot-password.png)
+![Dashboard page screenshot](/public/screenshots/dashboard.png)
+![Profile page screenshot](/public/screenshots/profile.png)
+![Change Password page screenshot](/public/screenshots/change-password.png)
+![Preferences page screenshot](/public/screenshots/preferences.png)
+![Blank Admin page screenshot](/public/screenshots/blank-page.png)
 
 ## Steps for how you can start our template: 
 
