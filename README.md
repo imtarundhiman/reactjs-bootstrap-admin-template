@@ -12,9 +12,12 @@
 ![Preferences page screenshot](/public/screenshots/preferences.png)
 ![Blank Admin page screenshot](/public/screenshots/blank-page.png)
 
-## Docs
+## Prerequisite
 
-##### see typography page content to see all components (ie. buttons, forms, text, dropdowns etc).
+-   Html
+-   Css
+-   Javascript
+-   ReactJs
 
 ## Steps for how you can start our template: 
 
