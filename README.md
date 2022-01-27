@@ -5,6 +5,8 @@
 ![Login page screenshot](/public/screenshots/login.png)
 ![Forgot password page screenshot](/public/screenshots/forgot-password.png)
 ![Dashboard page screenshot](/public/screenshots/dashboard.png)
+![Left modal page screenshot](/public/screenshots/left-modal.png)
+![Right modal page screenshot](/public/screenshots/right-modal.png)
 ![Profile page screenshot](/public/screenshots/profile.png)
 ![Change Password page screenshot](/public/screenshots/change-password.png)
 ![Preferences page screenshot](/public/screenshots/preferences.png)
