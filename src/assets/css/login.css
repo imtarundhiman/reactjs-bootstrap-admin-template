@@ -1,0 +1,31 @@
+.divider:after,
+.divider:before {
+  content: "";
+  flex: 1;
+  height: 1px;
+  background: #eee;
+}
+.h-custom {
+  height: calc(100% - 73px);
+}
+@media (max-width: 450px) {
+  .h-custom {
+    height: 100%;
+  }
+}
+
+.login-form {
+  background: #fff;
+  padding: 10px 5%;
+  border-radius: var(--border-radius);
+}
+
+.login-form h1 {
+  font-size: 30px !important;
+}
+
+.reset-password-section {
+  background-color: #fff;
+  padding: 15px 5%;
+  border-radius: var(--border-radius);
+}
