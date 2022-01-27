@@ -64,7 +64,7 @@ class TypographyPage extends React.Component {
                             <tr>
                                 <td><input type="checkbox"/></td>
                                 <td>Tarun Dhiman</td>
-                                <td>tarun.dhiman@potatocrm.com</td>
+                                <td>tarun.dhiman@abc.com</td>
                                 <td>Website</td>
                                 <td>23-aug-2019</td>
                                 <td>26-aug-2019</td>
@@ -82,7 +82,7 @@ class TypographyPage extends React.Component {
                             <tr>
                                 <td><input type="checkbox"/></td>
                                 <td>Ashwani Dhiman</td>
-                                <td>ashwani.dhiman@potatocrm.com</td>
+                                <td>ashwani.dhiman@abc.com</td>
                                 <td>IPO</td>
                                 <td>23-aug-2019</td>
                                 <td>26-aug-2019</td>
@@ -100,7 +100,7 @@ class TypographyPage extends React.Component {
                             <tr>
                                 <td><input type="checkbox"/></td>
                                 <td>Ashwani Dhiman</td>
-                                <td>ashwani.dhiman@potatocrm.com</td>
+                                <td>ashwani.dhiman@abc.com</td>
                                 <td>IPO</td>
                                 <td>23-aug-2019</td>
                                 <td>26-aug-2019</td>
@@ -118,7 +118,7 @@ class TypographyPage extends React.Component {
                             <tr>
                                 <td><input type="checkbox"/></td>
                                 <td>Gagan Chhabra</td>
-                                <td>gagan@potatocrm.com</td>
+                                <td>gagan@abc.com</td>
                                 <td>IPO</td>
                                 <td>23-aug-2019</td>
                                 <td>26-aug-2019</td>

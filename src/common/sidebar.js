@@ -14,7 +14,7 @@ class Sidebar extends React.Component {
         return <div className="border-end sidenav" id="sidebar-wrapper">
             <div className="sidebar-heading border-bottom ">
                 <Link to="/">
-                    <img alt="potato crm" src={require('./../assets/images/logo.png')} />
+                    <img alt="Alt content" src={require('./../assets/images/logo.png')} />
                 </Link>
             </div>
             <PerfectScrollbar className="sidebar-items">
