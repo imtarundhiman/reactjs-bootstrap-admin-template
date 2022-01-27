@@ -2,7 +2,7 @@
 
 ## Steps: 
 
-##### clone out respository
+##### clone our respository
 
 ##### npm install
 
