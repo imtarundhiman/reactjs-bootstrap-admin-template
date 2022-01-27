@@ -24,27 +24,6 @@ class Sidebar extends React.Component {
                             <i className="fa fa-dashboard"></i> Dashboard
                         </Link>
                     </li>
-                    <li className="mb-1">
-                        <Link tag="a" className="" to="/leads">
-                            <i className="fa fa-volume-down" aria-hidden="true"></i> Leads
-                        </Link>
-                    </li>
-                    <li className="mb-1">
-                        <Link tag="a" className="" to="/opportunities">
-                            <i className="fa fa-volume-up" aria-hidden="true"></i> Opportunities
-                        </Link>
-                    </li>
-                    <li className="border-top my-3"></li>
-                    <li className="mb-1">
-                        <Link tag="a" className="" to="/customers">
-                            <i className="fa fa-address-book" aria-hidden="true"></i> Customers
-                        </Link>
-                    </li>
-                    <li className="mb-1">
-                        <Link tag="a" className="" to="/contracts">
-                            <i className="fa fa-calendar" aria-hidden="true"></i> Contracts
-                        </Link>
-                    </li>
                     <li className="border-top my-3"></li>
                     <li className="mb-1">
                         <Link tag="a" className="" to="/typography">
