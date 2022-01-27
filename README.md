@@ -12,6 +12,10 @@
 ![Preferences page screenshot](/public/screenshots/preferences.png)
 ![Blank Admin page screenshot](/public/screenshots/blank-page.png)
 
+## Docs
+
+##### see typography page content to see all components (ie. buttons, forms, text, dropdowns etc).
+
 ## Steps for how you can start our template: 
 
 ##### clone our respository
